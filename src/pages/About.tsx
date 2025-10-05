@@ -70,10 +70,12 @@ const About = () => {
                 innovative design, and a commitment to excellence. I believe every
                 project is an opportunity to create something remarkable.
               </p>
+              <a href="/Resume Joy Agrawal.pdf" target="_blank" rel="noopener noreferrer">
               <Button size="lg" className="gradient-primary shadow-elegant">
                 <Download className="mr-2 h-5 w-5" />
                 Download Resume
               </Button>
+              </a>
             </div>
             <div className="relative animate-scale-in">
               <div className="relative rounded-2xl overflow-hidden shadow-elegant">
