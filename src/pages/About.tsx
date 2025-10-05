@@ -70,7 +70,7 @@ const About = () => {
                 innovative design, and a commitment to excellence. I believe every
                 project is an opportunity to create something remarkable.
               </p>
-              <a href={`${import.meta.env.BASE_URL}/Resume Joy Agrawal`} target="_blank" rel="noopener noreferrer">
+              <a href={`${import.meta.env.BASE_URL}/Resume Joy Agrawal.pdf`} target="_blank" rel="noopener noreferrer">
               <Button size="lg" className="gradient-primary shadow-elegant">
                 <Download className="mr-2 h-5 w-5" />
                 Download Resume
